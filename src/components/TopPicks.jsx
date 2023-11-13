@@ -1,4 +1,4 @@
-import { Splide, SplideSlide } from "@splidejs/react-splide";
+import { Splide, SplideSlide } from '@splidejs/react-splide';
 import "@splidejs/react-splide/css";
 import { topPicks } from "../data/data";
 
