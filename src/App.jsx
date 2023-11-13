@@ -19,7 +19,7 @@ function App() {
       <TopPicks/>
       <Meal/>
       <Categories/>
-      <Newsletter/>
+      {/* <Newsletter/> */}
       <Footer />
     </>
   )
